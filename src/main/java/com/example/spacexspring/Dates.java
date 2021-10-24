@@ -39,8 +39,8 @@ public class Dates {
     @Override
     public String toString() {
         return "Dates{" +
-                "Question: '" + question + '\'' +
-                ", The answer to the question='" + answer + '\'' +
+                "Question: '" + question + '\n' +
+                ", The answer to the question='" + answer + '\n' +
                 '}';
     }
 }
